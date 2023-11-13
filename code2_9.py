@@ -4,3 +4,4 @@ members = ["工藤","松田","浅木"]
 mem = members.pop(1)
 print(members)
 print(mem)
+print(mem)
