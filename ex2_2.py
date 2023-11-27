@@ -7,3 +7,4 @@ scores.append(int(input("英語 >> ")))
 
 print(f"合計点:{sum(scores)}")
 print(f"平均点:{sum(scores)/len(scores)}")
+print()
